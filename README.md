@@ -153,6 +153,7 @@ CrossChainDeFiAggregator
 4. Use `autoRebalance()` to optimize yields
 5. Withdraw using `optimizedWithdraw()` when needed
 
+
 ---
 
 *CrossChainDeFiAggregator - Maximizing Yields Across the DeFi Universe*
@@ -160,3 +161,6 @@ CrossChainDeFiAggregator
 contract address:0xeF1dc3C954945cD64BeB510873ffffC129C084f6
 ### TRANSACTION IMAGE
 ![image](https://github.com/user-attachments/assets/a4dc2927-7b40-4f86-8225-71809445ff9f)
+
+Project updated by Adiba – No further changes required.
+i
